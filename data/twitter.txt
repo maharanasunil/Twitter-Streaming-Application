@@ -1,4 +1,4 @@
-consumerKey VbdiWM68K1nLmKCyRBCdHObsQ
-consumerSecret 7Punz2rmVHJ30xO9Dm4bKiXXcw3rxPUXDLaisOiWNI9JvlrObP
-accessToken 755307412324777984-zDg5oZHagsaKdshCbDPeLGIOiy22RJY
-accessTokenSecret Est1BjpPNtft4xp9ff8AM1DfVxelR3KEwGMmr87Retf3o
+consumerKey //YourKey
+consumerSecret //YourKey
+accessToken //YourKey
+accessTokenSecret //YourKey
